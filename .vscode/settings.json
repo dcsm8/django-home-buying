@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "venv/bin/python",
+    "python.pythonPath": "/Users/david/.local/share/virtualenvs/dev-kGHxjko_/bin/python",
     "emmet.includeLanguages": {
         "django-html": "html"
     },
